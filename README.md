@@ -1,5 +1,4 @@
 # Plugin TCC
-
 Projeto TCC. Criação de um plug-in dentro do software Revit Autodesk, que faz a verificação para paredes de alvenaria estrutural solicitadas a flexocompressão.
 
 Considerações:
