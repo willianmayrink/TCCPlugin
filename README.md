@@ -28,5 +28,3 @@ Considerações:
 
 ![image](https://user-images.githubusercontent.com/51210094/151545992-1bba0863-484b-4556-8872-669946d2c66f.png)
 
-
-Em breve pdf do trabalho finalizado.
